@@ -1,2 +1,2 @@
-# Image classifier with deep learning:
+# Image classifier with deep learning
 The project was to build suitable deep learning models that can recognize 6 categories of natural images (buildings, forest, glacier, mountain, sea, and street). The dataset contains natural images of size 150x150 for the 6 categories. The goal is to build a model that can recognize the category of each image in the testing set. The basis of our model is a convolutional neural network which analyze the images.
